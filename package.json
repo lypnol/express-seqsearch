@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/lypnol/express-seqsearch/issues"
   },
-  "homepage": "https://github.com/lypnol/express-seqsearch#readme",
+  "homepage": "https://github.com/lypnol/express-seqsearch#express-seqsearch",
   "dependencies": {
     "underscore": "^1.8.3"
   },
