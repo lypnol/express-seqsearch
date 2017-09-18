@@ -5,6 +5,14 @@ Express sequelize search & paginate middleware
 This is a custom middleware to paginate, sort, filter and search Model entries in a Sequelize Express app.
 It uses [sequelize.findAndCountAll](http://docs.sequelizejs.com/manual/tutorial/models-usage.html#-findandcountall-search-for-multiple-elements-in-the-database-returns-both-data-and-total-count).
 
+# Installation
+
+use npm to install
+
+```
+$ npm install --save express-seqsearch
+```
+
 # Usage
 
 You can add the middleware at the end of your route handlers if the results you want to send are to be paginated.
