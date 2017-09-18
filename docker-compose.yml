@@ -1,0 +1,9 @@
+db:
+  image: postgres:9.4.1
+  environment:
+    - DEBUG=false
+    - POSTGRES_DB=test
+    - POSTGRES_USER=test
+    - POSTGRES_PASSWORD=test
+  ports:
+    - "5432:5432"
