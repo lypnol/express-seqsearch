@@ -1,6 +1,6 @@
 {
   "name": "express-seqsearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express sequelize search & paginate middleware",
   "main": "index.js",
   "scripts": {
